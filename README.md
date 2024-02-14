@@ -1,3 +1,4 @@
 PRODIGY_WD_01
 
-<img align = "center" src="blob:moz-extension://421a5de3-0fc2-44c7-a07d-733b1103a479/b8f8e718-245b-4431-b2e8-2c82ab30fcb4">
+
+<img align = "center" src="https://github.com/shaabinM/PRODIGY_WD_01/assets/84104599/89713d10-bb4d-4aef-86e0-f2d6ba5d1756">
